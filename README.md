@@ -2,7 +2,7 @@
 -👀 I’m interested in working as a front-end developer and UI/UX designer.
 -🌱 I’m currently pursuing B.Tech (CSE) at PESU EC CAMPUS, Bengaluru.
 -💞️ I’m looking to collaborate on amateur projects.
--📫 How to reach me: Email: dhanuvarsha49@gmail.com, LinkedIn: Dhanuvarsha's LinkedIn Profile
+-📫 How to reach me: Email: dhanuvarsha49@gmail.com, LinkedIn: Dhanuvarsha S S
 -😄 Pronouns: she/her
 -⚡ Fun fact: Likes cats more than anything.
 
