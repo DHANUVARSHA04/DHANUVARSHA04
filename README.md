@@ -25,19 +25,11 @@ I'm a passionate and adaptable Computer Science student at PES University, Benga
 ---
 
 ## 🌟 Projects
+- Just check my repositories. Just kidding
+- Roam Ready : https://github.com/DHANUVARSHA04/RoamReady
+- Product Modeling using ComfyUI & AI : https://github.com/DHANUVARSHA04/ComfyUI-pendant
 
-- **RoamReady**  
-  *Travel Package Management Platform*  
-  *React, Express, MySQL*  
-  Built a full-stack platform for travel packages with analytics and visualizations.
-
-- **Product Modeling using ComfyUI & AI**  
-  *Titan Company Ltd.*  
-  Automated, AI-powered workflow for realistic product modeling using image generation.
-
-- **Real-Time Stock Data Analytics**  
-  *Python, Apache Kafka, PySpark, MySQL*  
-  Live data streaming and analytics comparing batch vs. streaming outputs.
+- Real-Time Stock Data Analytics : Live data streaming and analytics comparing batch vs. streaming outputs.
 
 ---
 
