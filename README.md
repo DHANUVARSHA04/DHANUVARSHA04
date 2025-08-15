@@ -2,6 +2,7 @@
 
 Welcome to my GitHub!  
 I'm a passionate and adaptable Computer Science student at PES University, Bengaluru, with hands-on experience in **AI, app development, and UI/UX design**. I love turning ideas into impactful tech solutions through teamwork, innovation, and continuous learning.
+Little things about me : 🐱 Love cats • 🏎️🧡 F1 enthusiast (dream to work in it!) • 🍦 Always up for ice cream • 🤝 Believe in helping others, even in small ways.
 
 ---
 
